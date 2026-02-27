@@ -1,12 +1,16 @@
 # talks
 
-#### RLDM 2025 tutorial
+#### 2026-02-26 Fiber photometry tutorial
+
+Tutorial presentation on fiber photometry data acquisition, pre-processing and analysis.
+
+[slides](2026-02-06_Fiber_photometry_tutorial.pdf)
+
+#### 2025-06-11 RLDM 2025 tutorial
 
 Tutorial presentation at Reinforcement Learning and Decision Making conference 2025: *Brain Architecture for Adaptive Behaviour* 
 
 [slides](2025-06-11_RLDM_tutorial.pdf)
-
-
 
 ---
 
